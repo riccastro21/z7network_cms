@@ -1,0 +1,204 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header, nav, form, section, footer {
+	display: block;
+}
+body {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	background: #f7f5f6;
+	text-align: center;
+	font-size: 14px;
+	padding: 0px;
+	margin: 0px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+	text-align: center;
+}
+#wrapper {
+	max-width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;	
+}
+
+
+#main_header {
+	background:  #023862;
+	margin: 0px;
+	overflow: auto;
+
+}
+
+.logo1 {
+	padding-top: 15px;
+	margin-left: 35px;
+	margin-: 35px;
+}
+
+
+#main-nav ul {
+	list-style-type: none;
+	margin-left: 20px;
+}
+
+
+#main-nav ul li {
+	float: left;
+	padding: 10px;
+
+
+}
+
+#main-nav ul li a {
+	text-decoration: none;
+	font-size: 18px;
+	color: #f7f5f6;
+	margin-left: 25px;
+	padding: 5px;
+}
+
+#main-nav ul li a:hover {
+	color: #fbaf3b;
+}
+
+.search {
+	position: relative;
+	bottom: 30px;
+	right: 5px;
+	float: right;
+	padding: 5px 0px;
+}
+
+#main_section {
+	position: relative;
+	bottom: 25px;
+	padding: 0px;
+	margin: 0px;
+	background: white;
+	float: left;
+	border: 1px solid #cccccc;	
+}
+
+#main_aside {
+	width: 220px;
+	padding: 8px 10px;
+	float: left;
+	box-shadow: 1px 0px 1px rgba(0,0,0,0.2);
+
+}
+
+.android h4 {
+	padding: 5px;
+	text-align: center;
+}
+#main_aside img {
+	padding-left: 20px;
+}
+
+.band-title {
+	padding: 10px;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+.list {
+	list-style-type: none;
+	padding: 10px;
+}
+
+.list li a {
+	text-decoration: none;
+	padding: 5px;
+}
+
+
+#right_side{
+	float: left;
+	width: 745px;
+	padding: 8px 18px;
+	font: 14px/1.4 Helvetica;
+	color: #555;		
+}
+
+
+.video-section-title {
+	padding-bottom:10px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.Taylor {
+	padding: 10px 0px;
+	font-size: 16px;
+	font-weight: bold;
+	color: red;
+}
+
+.intro {
+	padding-right: 100px;
+	text-indent: 30px;
+}
+
+
+#slider {
+	width: 640px;
+	height: 390px;
+	overflow: hidden;
+	margin-top: 20px;
+
+}
+
+#slider .slides {
+	display: block;
+	width: 6000px;
+	height: 390px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#slider .slide {
+	float: left;
+	list-style-type: none;
+	width: 640px;
+	height: 390px;
+}
+
+.space {
+	padding: 5px;
+	background: #f1efef;
+	clear: both;
+}
+
+#main_footer {
+	position: relative;
+	bottom: 25px;
+	background: #023862;
+	height: 100px;
+	clear: left;
+}
+#main_footer p {
+	position: relative;
+	top: 15px;
+}
+
+.multimedia {	
+	
+	text-align: center;
+	
+}
+
+.multimedia img {
+	position: relative;
+	top: 25px;
+	padding: 5px;
+	width: 40px;
+}
+
+
+
